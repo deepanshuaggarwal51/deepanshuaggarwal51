@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Deepanshu Aggarwal @deepanshuaggarwal51. I am a Ph.D. student working on theoretical problems in Quantum condensed matter at the Indian Institute of Technology, Delhi, India.
 - 👀 I'm interested in learning various theories to obtain analytical results while simultaneously implementing them to write efficient codes for the various complex systems to dig out their rich physics.
-- 📫 How to reach me - Please write to me at daggarwal305@outlook.com.
+- 📫 How to reach me - Please write to me at daggarwal305@gmail.com.
 
 Our first work was an invited topical review by JPCM on "A primer on twistronics: a massless Dirac fermion's journey to moiré patterns and flat bands in twisted bilayer graphene," that starts
 from the perspective of a massless Dirac fermion in various superlattice potentials. In this line, we reviewed the moiré patterns in graphene over hexagonal Boron nitride and twisted bilayer graphene.
