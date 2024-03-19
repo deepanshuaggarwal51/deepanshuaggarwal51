@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Deepanshu Aggarwal @da8013. I am a Ph.D. student working on theoretical problems in Quantum condensed matter at the Indian Institute of Technology, Delhi, India.
+- 👋 Hi, I'm Deepanshu Aggarwal @deepanshuaggarwal51. I am a Ph.D. student working on theoretical problems in Quantum condensed matter at the Indian Institute of Technology, Delhi, India.
 - 👀 I'm interested in learning various theories to obtain analytical results while simultaneously implementing them to write efficient codes for the various complex systems to dig out their rich physics.
 - 📫 How to reach me - Please write to me at daggarwal305@outlook.com.
 
