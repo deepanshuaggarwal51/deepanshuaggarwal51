@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my GitHub portfolio.
+👋 Hi, welcome to my GitHub portfolio.
 
 https://deepanshuaggarwal51.github.io/
 
